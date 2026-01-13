@@ -8,7 +8,8 @@
 body{
   min-height: 100vh;
   width: 100%;
-  background: #009579;
+  background-image: url("https://images.freeimages.com/images/large-previews/5bd/green-computer-1552038.jpg");
+  background-position: center;
 }
 .container{
   position: absolute;
@@ -53,7 +54,7 @@ body{
    outline: none;
  }
  .form input:focus{
-   box-shadow: 0 1px 0 rgba(0,0,0,0.2);
+   box-shadow: 2px 2px rgba(0,0,0,0.5);
  }
 .form a{
   font-size: 16px;
